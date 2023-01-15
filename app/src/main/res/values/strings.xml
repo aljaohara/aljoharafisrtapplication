@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">aljoharafisrtapplication</string>
+    <string name="underline"> <u> Sign up</u></string>
+    <string name="underline2"> <u> Forgot Password</u></string>
+</resources>
