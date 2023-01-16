@@ -8,7 +8,7 @@ class MainviewModel: ViewModel() {
 
     var realname="aljohara"
     private set
-    var realpass="jejeee"
+    var realpass="123456"
     private set
 
 
